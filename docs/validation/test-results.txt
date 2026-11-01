@@ -1,0 +1,10 @@
+00:00 +0: loading C:/Users/liuyu/Desktop/EdenFoodDelivery/test/widget_test.dart
+00:00 +0: (setUpAll)
+00:00 +0: Cart uses integer cents, merges options, discounts and clears on checkout
+00:00 +1: Local state restores cart, settings and masked payment
+00:00 +2: Filters use dietary tags, category and maximum price
+00:00 +3: Every design route renders without layout errors at Size(375.0, 812.0)
+00:03 +4: Every design route renders without layout errors at Size(320.0, 740.0)
+00:04 +5: User can add food, change quantity and proceed to delivery
+00:05 +6: (tearDownAll)
+00:05 +6: All tests passed!

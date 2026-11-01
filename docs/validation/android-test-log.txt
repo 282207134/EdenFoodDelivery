@@ -1,0 +1,452 @@
+Running Gradle task 'assembleDebug'...                             44.0s
+√ Built build\app\outputs\flutter-apk\app-debug.apk
+Installing build\app\outputs\flutter-apk\app-debug.apk...        1,276ms
+D/FlutterJNI( 6465): Sending viewport metrics to the engine.
+VMServiceFlutterDriver: Connecting to Flutter application at http://127.0.0.1:65479/jN0DpeilUmw=/
+VMServiceFlutterDriver: Isolate found with number: 4223614831467591
+VMServiceFlutterDriver: Isolate 4223614831467591 is runnable.
+VMServiceFlutterDriver: Isolate is paused at start.
+VMServiceFlutterDriver: Attempting to resume isolate
+I/flutter ( 6465): 00:00 +0: Android: all design screens and checkout journey
+VMServiceFlutterDriver: Connected to Flutter application.
+W/WindowOnBackDispatcher( 6465): OnBackInvokedCallback is not enabled for the application.
+W/WindowOnBackDispatcher( 6465): Set 'android:enableOnBackInvokedCallback="true"' in the application manifest.
+D/FlutterJNI( 6465): Sending viewport metrics to the engine.
+I/flutter ( 6465): Capturing /walkthrough-3
+D/ProfileInstaller( 6465): Installing profile for com.eden.eden_food_delivery
+I/flutter ( 6465): Capturing /walkthrough-2
+D/EGL_emulation( 6465): app_time_stats: avg=311.54ms min=123.21ms max=839.17ms count=6
+I/flutter ( 6465): Capturing /walkthrough-1
+I/flutter ( 6465): Capturing /welcome
+I/flutter ( 6465): Capturing /notifications
+I/flutter ( 6465): Capturing /verification
+D/EGL_emulation( 6465): app_time_stats: avg=185.60ms min=110.10ms max=330.79ms count=7
+I/flutter ( 6465): Capturing /forgot-password
+I/flutter ( 6465): Capturing /sign-up
+I/flutter ( 6465): Capturing /sign-in
+D/EGL_emulation( 6465): app_time_stats: avg=182.59ms min=114.14ms max=307.10ms count=6
+I/flutter ( 6465): Capturing /auth
+I/flutter ( 6465): Capturing /home
+VMServiceFlutterDriver: request_data message is taking a long time to complete...
+I/flutter ( 6465): Capturing /map
+D/EGL_emulation( 6465): app_time_stats: avg=155.56ms min=113.24ms max=207.73ms count=7
+I/flutter ( 6465): Capturing /location-form
+I/flutter ( 6465): Capturing /choose-location
+I/flutter ( 6465): Capturing /schedule-detail
+I/flutter ( 6465): Capturing /schedule-success
+D/EGL_emulation( 6465): app_time_stats: avg=168.02ms min=113.65ms max=208.72ms count=7
+I/flutter ( 6465): Capturing /schedule-form
+I/flutter ( 6465): Capturing /create-schedule
+I/flutter ( 6465): Capturing /schedule
+D/EGL_emulation( 6465): app_time_stats: avg=167.12ms min=119.05ms max=216.17ms count=6
+I/flutter ( 6465): Capturing /search-results
+I/flutter ( 6465): Capturing /search-input
+I/flutter ( 6465): Capturing /categories
+D/EGL_emulation( 6465): app_time_stats: avg=172.83ms min=121.82ms max=227.82ms count=6
+I/flutter ( 6465): Capturing /filter
+E/AccessibilityBridge( 6465): transform has not been initialized for id = 327
+I/AccessibilityBridge( 6465): Semantics tree:SemanticsNode id=0 identifier=null label=null actions=0 flags=0
+I/AccessibilityBridge( 6465): Semantics tree:  +-- headingLevel=0
+I/AccessibilityBridge( 6465): Semantics tree:  +-- textDirection=UNKNOWN
+I/AccessibilityBridge( 6465): Semantics tree:  +-- rect.ltrb=(0.0, 0.0, 750.0, 1624.0)
+I/AccessibilityBridge( 6465): Semantics tree:  +-- transform=[1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 1.0]
+I/AccessibilityBridge( 6465): Semantics tree:  SemanticsNode id=1 identifier=null label=null actions=0 flags=0
+I/AccessibilityBridge( 6465): Semantics tree:    +-- headingLevel=0
+I/AccessibilityBridge( 6465): Semantics tree:    +-- textDirection=LTR
+I/AccessibilityBridge( 6465): Semantics tree:    +-- rect.ltrb=(0.0, 0.0, 375.0, 812.0)
+I/AccessibilityBridge( 6465): Semantics tree:    +-- transform=[2.0, 0.0, 0.0, 0.0, 0.0, 2.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 1.0]
+I/AccessibilityBridge( 6465): Semantics tree:    SemanticsNode id=326 identifier=null label=null actions=0 flags=0
+I/AccessibilityBridge( 6465): Semantics tree:      +-- headingLevel=0
+I/AccessibilityBridge( 6465): Semantics tree:      +-- textDirection=UNKNOWN
+I/AccessibilityBridge( 6465): Semantics tree:      +-- rect.ltrb=(0.0, 0.0, 375.0, 812.0)
+I/AccessibilityBridge( 6465): Semantics tree:      +-- transform=[1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 1.0]
+I/AccessibilityBridge( 6465): Semantics tree:      SemanticsNode id=328 identifier=null label=null actions=0 flags=2048
+I/AccessibilityBridge( 6465): Semantics tree:        +-- headingLevel=0
+I/AccessibilityBridge( 6465): Semantics tree:        +-- textDirection=UNKNOWN
+I/AccessibilityBridge( 6465): Semantics tree:        +-- rect.ltrb=(0.0, 0.0, 375.0, 812.0)
+I/AccessibilityBridge( 6465): Semantics tree:        +-- transform=[1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 1.0]
+I/AccessibilityBridge( 6465): Semantics tree:        SemanticsNode id=359 identifier=null label=null actions=0 flags=0
+I/AccessibilityBridge( 6465): Semantics tree:          +-- headingLevel=0
+I/AccessibilityBridge( 6465): Semantics tree:          +-- textDirection=UNKNOWN
+I/AccessibilityBridge( 6465): Semantics tree:          +-- rect.ltrb=(0.0, 0.0, 375.0, 116.0)
+I/AccessibilityBridge( 6465): Semantics tree:          +-- transform=[1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 1.0]
+I/AccessibilityBridge( 6465): Semantics tree:          SemanticsNode id=360 identifier=null label=null actions=4194305 flags=2097352
+I/AccessibilityBridge( 6465): Semantics tree:            +-- headingLevel=0
+I/AccessibilityBridge( 6465): Semantics tree:            +-- textDirection=LTR
+I/AccessibilityBridge( 6465): Semantics tree:            +-- rect.ltrb=(0.0, 0.0, 48.0, 48.0)
+I/AccessibilityBridge( 6465): Semantics tree:            +-- transform=[1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 4.0, 68.0, 0.0, 1.0]
+I/AccessibilityBridge( 6465): Semantics tree:          SemanticsNode id=361 identifier=null label=null actions=4194305 flags=2097352
+I/AccessibilityBridge( 6465): Semantics tree:            +-- headingLevel=0
+I/AccessibilityBridge( 6465): Semantics tree:            +-- textDirection=LTR
+I/AccessibilityBridge( 6465): Semantics tree:            +-- rect.ltrb=(0.0, 0.0, 48.0, 48.0)
+I/AccessibilityBridge( 6465): Semantics tree:            +-- transform=[1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 279.0, 68.0, 0.0, 1.0]
+I/AccessibilityBridge( 6465): Semantics tree:          SemanticsNode id=362 identifier=null label=null actions=4194305 flags=2097352
+I/AccessibilityBridge( 6465): Semantics tree:            +-- headingLevel=0
+I/AccessibilityBridge( 6465): Semantics tree:            +-- textDirection=LTR
+I/AccessibilityBridge( 6465): Semantics tree:            +-- rect.ltrb=(0.0, 0.0, 48.0, 48.0)
+I/AccessibilityBridge( 6465): Semantics tree:            +-- transform=[1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 327.0, 68.0, 0.0, 1.0]
+I/AccessibilityBridge( 6465): Semantics tree:        SemanticsNode id=329 identifier=null label=null actions=8388624 flags=262144
+I/AccessibilityBridge( 6465): Semantics tree:          +-- headingLevel=0
+I/AccessibilityBridge( 6465): Semantics tree:          +-- textDirection=UNKNOWN
+I/AccessibilityBridge( 6465): Semantics tree:          +-- rect.ltrb=(0.0, 0.0, 375.0, 544.0)
+I/AccessibilityBridge( 6465): Semantics tree:          +-- transform=[1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 116.0, 0.0, 1.0]
+I/AccessibilityBridge( 6465): Semantics tree:          SemanticsNode id=330 identifier=null label=Filter your search actions=0 flags=0
+I/AccessibilityBridge( 6465): Semantics tree:            +-- headingLevel=0
+I/AccessibilityBridge( 6465): Semantics tree:            +-- textDirection=LTR
+I/AccessibilityBridge( 6465): Semantics tree:            +-- rect.ltrb=(0.0, 0.0, 246.009, 36.0)
+I/AccessibilityBridge( 6465): Semantics tree:            +-- transform=[1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 28.0, 16.0, 0.0, 1.0]
+I/AccessibilityBridge( 6465): Semantics tree:          SemanticsNode id=331 identifier=null label=Categories actions=0 flags=0
+I/AccessibilityBridge( 6465): Semantics tree:            +-- headingLevel=0
+I/AccessibilityBridge( 6465): Semantics tree:            +-- textDirection=LTR
+I/AccessibilityBridge( 6465): Semantics tree:            +-- rect.ltrb=(0.0, 0.0, 319.0, 24.0)
+I/AccessibilityBridge( 6465): Semantics tree:            +-- transform=[1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 28.0, 84.0, 0.0, 1.0]
+I/AccessibilityBridge( 6465): Semantics tree:          SemanticsNode id=332 identifier=null label=All actions=4194305 flags=270532812
+I/AccessibilityBridge( 6465): Semantics tree:            +-- headingLevel=0
+I/AccessibilityBridge( 6465): Semantics tree:            +-- textDirection=LTR
+I/AccessibilityBridge( 6465): Semantics tree:            +-- rect.ltrb=(0.0, 0.0, 62.549984, 48.0)
+I/AccessibilityBridge( 6465): Semantics tree:            +-- transform=[1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 28.0, 120.0, 0.0, 1.0]
+I/AccessibilityBridge( 6465): Semantics tree:          SemanticsNode id=333 identifier=null label=Breakfast actions=4194305 flags=270532808
+I/AccessibilityBridge( 6465): Semantics tree:            +-- headingLevel=0
+I/AccessibilityBridge( 6465): Semantics tree:            +-- textDirection=LTR
+I/AccessibilityBridge( 6465): Semantics tree:            +-- rect.ltrb=(0.0, 0.0, 82.689964, 48.0)
+I/AccessibilityBridge( 6465): Semantics tree:            +-- transform=[1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 98.54999, 120.0, 0.0, 1.0]
+I/AccessibilityBridge( 6465): Semantics tree:          SemanticsNode id=334 identifier=null label=Lunch actions=4194305 flags=270532808
+I/AccessibilityBridge( 6465): Semantics tree:            +-- headingLevel=0
+I/AccessibilityBridge( 6465): Semantics tree:            +-- textDirection=LTR
+I/AccessibilityBridge( 6465): Semantics tree:            +-- rect.ltrb=(0.0, 0.0, 64.40997, 48.0)
+I/AccessibilityBridge( 6465): Semantics tree:            +-- transform=[1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 189.23994, 120.0, 0.0, 1.0]
+I/AccessibilityBridge( 6465): Semantics tree:          SemanticsNode id=335 identifier=null label=Dinner actions=4194305 flags=270532808
+I/AccessibilityBridge( 6465): Semantics tree:            +-- headingLevel=0
+I/AccessibilityBridge( 6465): Semantics tree:            +-- textDirection=LTR
+I/AccessibilityBridge( 6465): Semantics tree:            +-- rect.ltrb=(0.0, 0.0, 67.31997, 48.0)
+I/AccessibilityBridge( 6465): Semantics tree:            +-- transform=[1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 261.64993, 120.0, 0.0, 1.0]
+I/AccessibilityBridge( 6465): Semantics tree:          SemanticsNode id=336 identifier=null label=Burgers actions=4194305 flags=270532808
+I/AccessibilityBridge( 6465): Semantics tree:            +-- headingLevel=0
+I/AccessibilityBridge( 6465): Semantics tree:            +-- textDirection=LTR
+I/AccessibilityBridge( 6465): Semantics tree:            +-- rect.ltrb=(0.0, 0.0, 73.45996, 48.0)
+I/AccessibilityBridge( 6465): Semantics tree:            +-- transform=[1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 28.0, 176.0, 0.0, 1.0]
+I/AccessibilityBridge( 6465): Semantics tree:          SemanticsNode id=337 identifier=null label=Special offers actions=4194305 flags=270532808
+I/AccessibilityBridge( 6465): Semantics tree:            +-- headingLevel=0
+I/AccessibilityBridge( 6465): Semantics tree:            +-- textDirection=LTR
+I/AccessibilityBridge( 6465): Semantics tree:            +-- rect.ltrb=(0.0, 0.0, 103.419945, 48.0)
+I/AccessibilityBridge( 6465): Semantics tree:            +-- transform=[1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 109.45996, 176.0, 0.0, 1.0]
+I/AccessibilityBridge( 6465): Semantics tree:          SemanticsNode id=338 identifier=null label=Pasta actions=4194305 flags=270532808
+I/AccessibilityBridge( 6465): Semantics tree:            +-- headingLevel=0
+I/AccessibilityBridge( 6465): Semantics tree:            +-- textDirection=LTR
+I/AccessibilityBridge( 6465): Semantics tree:            +-- rect.ltrb=(0.0, 0.0, 63.069992, 48.0)
+I/AccessibilityBridge( 6465): Semantics tree:            +-- transform=[1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 220.87991, 176.0, 0.0, 1.0]
+I/AccessibilityBridge( 6465): Semantics tree:          SemanticsNode id=339 identifier=null label=Chinese actions=4194305 flags=270532808
+I/AccessibilityBridge( 6465): Semantics tree:            +-- headingLevel=0
+I/AccessibilityBridge( 6465): Semantics tree:            +-- textDirection=LTR
+I/AccessibilityBridge( 6465): Semantics tree:            +-- rect.ltrb=(0.0, 0.0, 75.729965, 48.0)
+I/AccessibilityBridge( 6465): Semantics tree:            +-- transform=[1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 28.0, 232.0, 0.0, 1.0]
+I/AccessibilityBridge( 6465): Semantics tree:          SemanticsNode id=340 identifier=null label=Pizza actions=4194305 flags=270532808
+I/AccessibilityBridge( 6465): Semantics tree:            +-- headingLevel=0
+I/AccessibilityBridge( 6465): Semantics tree:            +-- textDirection=LTR
+I/AccessibilityBridge( 6465): Semantics tree:            +-- rect.ltrb=(0.0, 0.0, 59.289978, 48.0)
+I/AccessibilityBridge( 6465): Semantics tree:            +-- transform=[1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 111.729965, 232.0, 0.0, 1.0]
+I/AccessibilityBridge( 6465): Semantics tree:          SemanticsNode id=341 identifier=null label=Salads actions=4194305 flags=270532808
+I/AccessibilityBridge( 6465): Semantics tree:            +-- headingLevel=0
+I/AccessibilityBridge( 6465): Semantics tree:            +-- textDirection=LTR
+I/AccessibilityBridge( 6465): Semantics tree:            +-- rect.ltrb=(0.0, 0.0, 68.959984, 48.0)
+I/AccessibilityBridge( 6465): Semantics tree:            +-- transform=[1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 179.01994, 232.0, 0.0, 1.0]
+I/AccessibilityBridge( 6465): Semantics tree:          SemanticsNode id=342 identifier=null label=Soups actions=4194305 flags=270532808
+I/AccessibilityBridge( 6465): Semantics tree:            +-- headingLevel=0
+I/AccessibilityBridge( 6465): Semantics tree:            +-- textDirection=LTR
+I/AccessibilityBridge( 6465): Semantics tree:            +-- rect.ltrb=(0.0, 0.0, 65.52997, 48.0)
+I/AccessibilityBridge( 6465): Semantics tree:            +-- transform=[1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 255.97993, 232.0, 0.0, 1.0]
+I/AccessibilityBridge( 6465): Semantics tree:          SemanticsNode id=343 identifier=null label=Type of food actions=0 flags=0
+I/AccessibilityBridge( 6465): Semantics tree:            +-- headingLevel=0
+I/AccessibilityBridge( 6465): Semantics tree:            +-- textDirection=LTR
+I/AccessibilityBridge( 6465): Semantics tree:            +-- rect.ltrb=(0.0, 0.0, 319.0, 24.0)
+I/AccessibilityBridge( 6465): Semantics tree:            +-- transform=[1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 28.0, 292.0, 0.0, 1.0]
+I/AccessibilityBridge( 6465): Semantics tree:          SemanticsNode id=344 identifier=null label=Any actions=4194305 flags=270532812
+I/AccessibilityBridge( 6465): Semantics tree:            +-- headingLevel=0
+I/AccessibilityBridge( 6465): Semantics tree:            +-- textDirection=LTR
+I/AccessibilityBridge( 6465): Semantics tree:            +-- rect.ltrb=(0.0, 0.0, 69.57997, 48.0)
+I/AccessibilityBridge( 6465): Semantics tree:            +-- transform=[1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 28.0, 328.0, 0.0, 1.0]
+I/AccessibilityBridge( 6465): Semantics tree:          SemanticsNode id=345 identifier=null label=Vegetarian actions=4194305 flags=270532808
+I/AccessibilityBridge( 6465): Semantics tree:            +-- headingLevel=0
+I/AccessibilityBridge( 6465): Semantics tree:            +-- textDirection=LTR
+I/AccessibilityBridge( 6465): Semantics tree:            +-- rect.ltrb=(0.0, 0.0, 91.30997, 48.0)
+I/AccessibilityBridge( 6465): Semantics tree:            +-- transform=[1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 105.57997, 328.0, 0.0, 1.0]
+I/AccessibilityBridge( 6465): Semantics tree:          SemanticsNode id=346 identifier=null label=Vegan actions=4194305 flags=270532808
+I/AccessibilityBridge( 6465): Semantics tree:            +-- headingLevel=0
+I/AccessibilityBridge( 6465): Semantics tree:            +-- textDirection=LTR
+I/AccessibilityBridge( 6465): Semantics tree:            +-- rect.ltrb=(0.0, 0.0, 67.65997, 48.0)
+I/AccessibilityBridge( 6465): Semantics tree:            +-- transform=[1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 204.88994, 328.0, 0.0, 1.0]
+I/AccessibilityBridge( 6465): Semantics tree:          SemanticsNode id=347 identifier=null label=Lacto ovo actions=4194305 flags=270532808
+I/AccessibilityBridge( 6465): Semantics tree:            +-- headingLevel=0
+I/AccessibilityBridge( 6465): Semantics tree:            +-- textDirection=LTR
+I/AccessibilityBridge( 6465): Semantics tree:            +-- rect.ltrb=(0.0, 0.0, 83.33996, 48.0)
+I/AccessibilityBridge( 6465): Semantics tree:            +-- transform=[1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 28.0, 376.0, 0.0, 1.0]
+I/AccessibilityBridge( 6465): Semantics tree:          SemanticsNode id=348 identifier=null label=$5                         $125 actions=0 flags=0
+I/AccessibilityBridge( 6465): Semantics tree:            +-- headingLevel=0
+I/AccessibilityBridge( 6465): Semantics tree:            +-- textDirection=LTR
+I/AccessibilityBridge( 6465): Semantics tree:            +-- rect.ltrb=(0.0, 0.0, 148.72958, 20.0)
+I/AccessibilityBridge( 6465): Semantics tree:            +-- transform=[1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 28.0, 446.0, 0.0, 1.0]
+I/AccessibilityBridge( 6465): Semantics tree:          SemanticsNode id=349 identifier=null label=null actions=0 flags=0
+I/AccessibilityBridge( 6465): Semantics tree:            +-- headingLevel=0
+I/AccessibilityBridge( 6465): Semantics tree:            +-- textDirection=UNKNOWN
+I/AccessibilityBridge( 6465): Semantics tree:            +-- rect.ltrb=(0.0, 0.0, 319.0, 48.0)
+I/AccessibilityBridge( 6465): Semantics tree:            +-- transform=[1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 28.0, 466.0, 0.0, 1.0]
+I/AccessibilityBridge( 6465): Semantics tree:            SemanticsNode id=350 identifier=null label=$125 actions=4194496 flags=10485952
+I/AccessibilityBridge( 6465): Semantics tree:              +-- headingLevel=0
+I/AccessibilityBridge( 6465): Semantics tree:              +-- textDirection=LTR
+I/AccessibilityBridge( 6465): Semantics tree:              +-- rect.ltrb=(271.0, 0.0, 319.0, 48.0)
+I/AccessibilityBridge( 6465): Semantics tree:              +-- transform=[1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 1.0]
+I/AccessibilityBridge( 6465): Semantics tree:            SemanticsNode id=327 identifier=null label=null actions=0 flags=0
+I/AccessibilityBridge( 6465): Semantics tree:              +-- headingLevel=0
+I/AccessibilityBridge( 6465): Semantics tree:              +-- textDirection=null
+I/AccessibilityBridge( 6465): Semantics tree:              +-- rect.ltrb=(0.0, 0.0, 0.0, 0.0)
+I/AccessibilityBridge( 6465): Semantics tree:              +-- transform=null
+I/AccessibilityBridge( 6465): Semantics tree:          SemanticsNode id=351 identifier=null label=Rating actions=0 flags=0
+I/AccessibilityBridge( 6465): Semantics tree:            +-- headingLevel=0
+I/AccessibilityBridge( 6465): Semantics tree:            +-- textDirection=LTR
+I/AccessibilityBridge( 6465): Semantics tree:            +-- rect.ltrb=(0.0, 0.0, 319.0, 18.0)
+I/AccessibilityBridge( 6465): Semantics tree:            +-- transform=[1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 28.0, 526.0, 0.0, 1.0]
+I/AccessibilityBridge( 6465): Semantics tree:          SemanticsNode id=352 identifier=null label=null actions=4194305 flags=2105544
+I/AccessibilityBridge( 6465): Semantics tree:            +-- headingLevel=0
+I/AccessibilityBridge( 6465): Semantics tree:            +-- textDirection=LTR
+I/AccessibilityBridge( 6465): Semantics tree:            +-- rect.ltrb=(0.0, 0.0, 48.0, 48.0)
+I/AccessibilityBridge( 6465): Semantics tree:            +-- transform=[1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 28.0, 562.0, 0.0, 1.0]
+I/AccessibilityBridge( 6465): Semantics tree:          SemanticsNode id=353 identifier=null label=null actions=4194305 flags=2105544
+I/AccessibilityBridge( 6465): Semantics tree:            +-- headingLevel=0
+I/AccessibilityBridge( 6465): Semantics tree:            +-- textDirection=LTR
+I/AccessibilityBridge( 6465): Semantics tree:            +-- rect.ltrb=(0.0, 0.0, 48.0, 48.0)
+I/AccessibilityBridge( 6465): Semantics tree:            +-- transform=[1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 76.0, 562.0, 0.0, 1.0]
+I/AccessibilityBridge( 6465): Semantics tree:          SemanticsNode id=354 identifier=null label=null actions=4194305 flags=2105544
+I/AccessibilityBridge( 6465): Semantics tree:            +-- headingLevel=0
+I/AccessibilityBridge( 6465): Semantics tree:            +-- textDirection=LTR
+I/AccessibilityBridge( 6465): Semantics tree:            +-- rect.ltrb=(0.0, 0.0, 48.0, 48.0)
+I/AccessibilityBridge( 6465): Semantics tree:            +-- transform=[1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 124.0, 562.0, 0.0, 1.0]
+I/AccessibilityBridge( 6465): Semantics tree:          SemanticsNode id=355 identifier=null label=null actions=4194305 flags=2105544
+I/AccessibilityBridge( 6465): Semantics tree:            +-- headingLevel=0
+I/AccessibilityBridge( 6465): Semantics tree:            +-- textDirection=LTR
+I/AccessibilityBridge( 6465): Semantics tree:            +-- rect.ltrb=(0.0, 0.0, 48.0, 48.0)
+I/AccessibilityBridge( 6465): Semantics tree:            +-- transform=[1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 172.0, 562.0, 0.0, 1.0]
+I/AccessibilityBridge( 6465): Semantics tree:          SemanticsNode id=356 identifier=null label=null actions=4194305 flags=2105544
+I/AccessibilityBridge( 6465): Semantics tree:            +-- headingLevel=0
+I/AccessibilityBridge( 6465): Semantics tree:            +-- textDirection=LTR
+I/AccessibilityBridge( 6465): Semantics tree:            +-- rect.ltrb=(0.0, 0.0, 48.0, 48.0)
+I/AccessibilityBridge( 6465): Semantics tree:            +-- transform=[1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 220.0, 562.0, 0.0, 1.0]
+I/AccessibilityBridge( 6465): Semantics tree:          SemanticsNode id=357 identifier=null label=Promotion actions=4194305 flags=270540993
+I/AccessibilityBridge( 6465): Semantics tree:            +-- headingLevel=0
+I/AccessibilityBridge( 6465): Semantics tree:            +-- textDirection=LTR
+I/AccessibilityBridge( 6465): Semantics tree:            +-- rect.ltrb=(0.0, 0.0, 319.0, 56.0)
+I/AccessibilityBridge( 6465): Semantics tree:            +-- transform=[1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 28.0, 610.0, 0.0, 1.0]
+I/AccessibilityBridge( 6465): Semantics tree:        SemanticsNode id=363 identifier=null label=Apply filters actions=4194305 flags=2097352
+I/AccessibilityBridge( 6465): Semantics tree:          +-- headingLevel=0
+I/AccessibilityBridge( 6465): Semantics tree:          +-- textDirection=LTR
+I/AccessibilityBridge( 6465): Semantics tree:          +-- rect.ltrb=(0.0, 0.0, 319.0, 52.0)
+I/AccessibilityBridge( 6465): Semantics tree:          +-- transform=[1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 28.0, 672.0, 0.0, 1.0]
+I/AccessibilityBridge( 6465): Semantics tree:        SemanticsNode id=364 identifier=null label=Clear filters actions=4194305 flags=2097352
+I/AccessibilityBridge( 6465): Semantics tree:          +-- headingLevel=0
+I/AccessibilityBridge( 6465): Semantics tree:          +-- textDirection=LTR
+I/AccessibilityBridge( 6465): Semantics tree:          +-- rect.ltrb=(0.0, 0.0, 319.0, 48.0)
+I/AccessibilityBridge( 6465): Semantics tree:          +-- transform=[1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 28.0, 724.0, 0.0, 1.0]
+I/flutter ( 6465): Capturing /search
+I/flutter ( 6465): Capturing /feedback
+D/EGL_emulation( 6465): app_time_stats: avg=187.61ms min=115.68ms max=300.28ms count=6
+I/flutter ( 6465): Capturing /call
+I/flutter ( 6465): Capturing /restaurant-chat
+I/flutter ( 6465): Capturing /restaurant
+D/EGL_emulation( 6465): app_time_stats: avg=167.57ms min=116.71ms max=232.28ms count=6
+I/flutter ( 6465): Capturing /library
+I/flutter ( 6465): Capturing /ingredients
+I/flutter ( 6465): Capturing /combo
+D/EGL_emulation( 6465): app_time_stats: avg=185.23ms min=115.48ms max=266.93ms count=6
+I/flutter ( 6465): Capturing /options
+I/flutter ( 6465): Capturing /item
+I/flutter ( 6465): Capturing /product
+D/EGL_emulation( 6465): app_time_stats: avg=177.92ms min=116.27ms max=273.49ms count=6
+I/flutter ( 6465): Capturing /best-seller
+I/flutter ( 6465): Capturing /popular
+I/flutter ( 6465): Capturing /reviews
+D/EGL_emulation( 6465): app_time_stats: avg=173.59ms min=112.19ms max=252.00ms count=6
+I/flutter ( 6465): Capturing /order-success
+I/flutter ( 6465): Capturing /checkout-summary
+I/flutter ( 6465): Capturing /checkout
+D/EGL_emulation( 6465): app_time_stats: avg=155.92ms min=113.31ms max=207.18ms count=7
+I/flutter ( 6465): Capturing /payment
+I/flutter ( 6465): Capturing /card-success
+I/flutter ( 6465): Capturing /add-card
+I/flutter ( 6465): Capturing /empty-payment
+D/EGL_emulation( 6465): app_time_stats: avg=161.22ms min=87.38ms max=214.60ms count=7
+I/flutter ( 6465): Capturing /delivery
+I/flutter ( 6465): Capturing /remove-order
+I/flutter ( 6465): Capturing /qr
+D/EGL_emulation( 6465): app_time_stats: avg=167.42ms min=119.32ms max=247.95ms count=6
+I/flutter ( 6465): Capturing /bill
+I/flutter ( 6465): Capturing /order-detail
+I/flutter ( 6465): Capturing /cart
+D/EGL_emulation( 6465): app_time_stats: avg=157.41ms min=110.06ms max=222.26ms count=7
+I/flutter ( 6465): Capturing /empty-cart
+I/flutter ( 6465): Capturing /voucher
+I/flutter ( 6465): Capturing /offers
+I/flutter ( 6465): Capturing /rate-order
+D/EGL_emulation( 6465): app_time_stats: avg=164.93ms min=109.41ms max=217.44ms count=7
+I/flutter ( 6465): Capturing /delivery-success
+I/flutter ( 6465): Capturing /driver-chat
+I/flutter ( 6465): Capturing /follow-driver
+D/EGL_emulation( 6465): app_time_stats: avg=151.16ms min=108.49ms max=221.34ms count=7
+I/flutter ( 6465): Capturing /tracking-route
+I/flutter ( 6465): Capturing /tracking-map
+I/flutter ( 6465): Capturing /find-driver
+I/flutter ( 6465): Capturing /collection
+D/EGL_emulation( 6465): app_time_stats: avg=171.15ms min=110.24ms max=214.48ms count=7
+I/flutter ( 6465): Capturing /video
+E/AccessibilityBridge( 6465): transform has not been initialized for id = 974
+I/AccessibilityBridge( 6465): Semantics tree:SemanticsNode id=0 identifier=null label=null actions=0 flags=0
+I/AccessibilityBridge( 6465): Semantics tree:  +-- headingLevel=0
+I/AccessibilityBridge( 6465): Semantics tree:  +-- textDirection=UNKNOWN
+I/AccessibilityBridge( 6465): Semantics tree:  +-- rect.ltrb=(0.0, 0.0, 750.0, 1624.0)
+I/AccessibilityBridge( 6465): Semantics tree:  +-- transform=[1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 1.0]
+I/AccessibilityBridge( 6465): Semantics tree:  SemanticsNode id=1 identifier=null label=null actions=0 flags=0
+I/AccessibilityBridge( 6465): Semantics tree:    +-- headingLevel=0
+I/AccessibilityBridge( 6465): Semantics tree:    +-- textDirection=LTR
+I/AccessibilityBridge( 6465): Semantics tree:    +-- rect.ltrb=(0.0, 0.0, 375.0, 812.0)
+I/AccessibilityBridge( 6465): Semantics tree:    +-- transform=[2.0, 0.0, 0.0, 0.0, 0.0, 2.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 1.0]
+I/AccessibilityBridge( 6465): Semantics tree:    SemanticsNode id=973 identifier=null label=null actions=0 flags=0
+I/AccessibilityBridge( 6465): Semantics tree:      +-- headingLevel=0
+I/AccessibilityBridge( 6465): Semantics tree:      +-- textDirection=UNKNOWN
+I/AccessibilityBridge( 6465): Semantics tree:      +-- rect.ltrb=(0.0, 0.0, 375.0, 812.0)
+I/AccessibilityBridge( 6465): Semantics tree:      +-- transform=[1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 1.0]
+I/AccessibilityBridge( 6465): Semantics tree:      SemanticsNode id=975 identifier=null label=null actions=0 flags=2048
+I/AccessibilityBridge( 6465): Semantics tree:        +-- headingLevel=0
+I/AccessibilityBridge( 6465): Semantics tree:        +-- textDirection=UNKNOWN
+I/AccessibilityBridge( 6465): Semantics tree:        +-- rect.ltrb=(0.0, 0.0, 375.0, 812.0)
+I/AccessibilityBridge( 6465): Semantics tree:        +-- transform=[1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 1.0]
+I/AccessibilityBridge( 6465): Semantics tree:        SemanticsNode id=993 identifier=null label=null actions=0 flags=0
+I/AccessibilityBridge( 6465): Semantics tree:          +-- headingLevel=0
+I/AccessibilityBridge( 6465): Semantics tree:          +-- textDirection=UNKNOWN
+I/AccessibilityBridge( 6465): Semantics tree:          +-- rect.ltrb=(0.0, 0.0, 375.0, 116.0)
+I/AccessibilityBridge( 6465): Semantics tree:          +-- transform=[1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 1.0]
+I/AccessibilityBridge( 6465): Semantics tree:          SemanticsNode id=994 identifier=null label=null actions=4194305 flags=2097352
+I/AccessibilityBridge( 6465): Semantics tree:            +-- headingLevel=0
+I/AccessibilityBridge( 6465): Semantics tree:            +-- textDirection=LTR
+I/AccessibilityBridge( 6465): Semantics tree:            +-- rect.ltrb=(0.0, 0.0, 48.0, 48.0)
+I/AccessibilityBridge( 6465): Semantics tree:            +-- transform=[1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 4.0, 68.0, 0.0, 1.0]
+I/AccessibilityBridge( 6465): Semantics tree:          SemanticsNode id=995 identifier=null label=null actions=4194305 flags=2097352
+I/AccessibilityBridge( 6465): Semantics tree:            +-- headingLevel=0
+I/AccessibilityBridge( 6465): Semantics tree:            +-- textDirection=LTR
+I/AccessibilityBridge( 6465): Semantics tree:            +-- rect.ltrb=(0.0, 0.0, 48.0, 48.0)
+I/AccessibilityBridge( 6465): Semantics tree:            +-- transform=[1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 279.0, 68.0, 0.0, 1.0]
+I/AccessibilityBridge( 6465): Semantics tree:          SemanticsNode id=996 identifier=null label=null actions=4194305 flags=2097352
+I/AccessibilityBridge( 6465): Semantics tree:            +-- headingLevel=0
+I/AccessibilityBridge( 6465): Semantics tree:            +-- textDirection=LTR
+I/AccessibilityBridge( 6465): Semantics tree:            +-- rect.ltrb=(0.0, 0.0, 48.0, 48.0)
+I/AccessibilityBridge( 6465): Semantics tree:            +-- transform=[1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 327.0, 68.0, 0.0, 1.0]
+I/AccessibilityBridge( 6465): Semantics tree:        SemanticsNode id=976 identifier=null label=null actions=0 flags=262144
+I/AccessibilityBridge( 6465): Semantics tree:          +-- headingLevel=0
+I/AccessibilityBridge( 6465): Semantics tree:          +-- textDirection=UNKNOWN
+I/AccessibilityBridge( 6465): Semantics tree:          +-- rect.ltrb=(0.0, 0.0, 375.0, 619.0)
+I/AccessibilityBridge( 6465): Semantics tree:          +-- transform=[1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 116.0, 0.0, 1.0]
+I/AccessibilityBridge( 6465): Semantics tree:          SemanticsNode id=977 identifier=null label=Spicy Scrambled
+I/AccessibilityBridge( 6465): Egg Tacos actions=0 flags=0
+I/AccessibilityBridge( 6465): Semantics tree:            +-- headingLevel=0
+I/AccessibilityBridge( 6465): Semantics tree:            +-- textDirection=LTR
+I/AccessibilityBridge( 6465): Semantics tree:            +-- rect.ltrb=(0.0, 0.0, 240.85701, 72.0)
+I/AccessibilityBridge( 6465): Semantics tree:            +-- transform=[1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 28.0, 16.0, 0.0, 1.0]
+I/AccessibilityBridge( 6465): Semantics tree:          SemanticsNode id=978 identifier=null label=null actions=4194305 flags=2097352
+I/AccessibilityBridge( 6465): Semantics tree:            +-- headingLevel=0
+I/AccessibilityBridge( 6465): Semantics tree:            +-- textDirection=LTR
+I/AccessibilityBridge( 6465): Semantics tree:            +-- rect.ltrb=(0.0, 0.0, 54.0, 54.0)
+I/AccessibilityBridge( 6465): Semantics tree:            +-- transform=[1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 160.5, 203.5, 0.0, 1.0]
+I/AccessibilityBridge( 6465): Semantics tree:          SemanticsNode id=979 identifier=null label=null actions=0 flags=0
+I/AccessibilityBridge( 6465): Semantics tree:            +-- headingLevel=0
+I/AccessibilityBridge( 6465): Semantics tree:            +-- textDirection=UNKNOWN
+I/AccessibilityBridge( 6465): Semantics tree:            +-- rect.ltrb=(0.0, 0.0, 319.0, 48.0)
+I/AccessibilityBridge( 6465): Semantics tree:            +-- transform=[1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 28.0, 375.0, 0.0, 1.0]
+I/AccessibilityBridge( 6465): Semantics tree:            SemanticsNode id=980 identifier=null label=null actions=4194496 flags=10485952
+I/AccessibilityBridge( 6465): Semantics tree:              +-- headingLevel=0
+I/AccessibilityBridge( 6465): Semantics tree:              +-- textDirection=LTR
+I/AccessibilityBridge( 6465): Semantics tree:              +-- rect.ltrb=(62.33, 0.0, 110.33, 48.0)
+I/AccessibilityBridge( 6465): Semantics tree:              +-- transform=[1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 1.0]
+I/AccessibilityBridge( 6465): Semantics tree:            SemanticsNode id=974 identifier=null label=null actions=0 flags=0
+I/AccessibilityBridge( 6465): Semantics tree:              +-- headingLevel=0
+I/AccessibilityBridge( 6465): Semantics tree:              +-- textDirection=null
+I/AccessibilityBridge( 6465): Semantics tree:              +-- rect.ltrb=(0.0, 0.0, 0.0, 0.0)
+I/AccessibilityBridge( 6465): Semantics tree:              +-- transform=null
+I/AccessibilityBridge( 6465): Semantics tree:          SemanticsNode id=981 identifier=null label=Recipe slideshow preview actions=0 flags=0
+I/AccessibilityBridge( 6465): Semantics tree:            +-- headingLevel=0
+I/AccessibilityBridge( 6465): Semantics tree:            +-- textDirection=LTR
+I/AccessibilityBridge( 6465): Semantics tree:            +-- rect.ltrb=(0.0, 0.0, 146.34795, 16.0)
+I/AccessibilityBridge( 6465): Semantics tree:            +-- transform=[1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 28.0, 423.0, 0.0, 1.0]
+I/AccessibilityBridge( 6465): Semantics tree:          SemanticsNode id=982 identifier=null label=null actions=4194305 flags=2097352
+I/AccessibilityBridge( 6465): Semantics tree:            +-- headingLevel=0
+I/AccessibilityBridge( 6465): Semantics tree:            +-- textDirection=LTR
+I/AccessibilityBridge( 6465): Semantics tree:            +-- rect.ltrb=(0.0, 0.0, 48.0, 48.0)
+I/AccessibilityBridge( 6465): Semantics tree:            +-- transform=[1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 57.166668, 439.0, 0.0, 1.0]
+I/AccessibilityBridge( 6465): Semantics tree:          SemanticsNode id=983 identifier=null label=null actions=4194305 flags=2097352
+I/AccessibilityBridge( 6465): Semantics tree:            +-- headingLevel=0
+I/AccessibilityBridge( 6465): Semantics tree:            +-- textDirection=LTR
+I/AccessibilityBridge( 6465): Semantics tree:            +-- rect.ltrb=(0.0, 0.0, 48.0, 48.0)
+I/AccessibilityBridge( 6465): Semantics tree:            +-- transform=[1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 163.5, 439.0, 0.0, 1.0]
+I/AccessibilityBridge( 6465): Semantics tree:          SemanticsNode id=984 identifier=null label=null actions=4194305 flags=2097352
+I/AccessibilityBridge( 6465): Semantics tree:            +-- headingLevel=0
+I/AccessibilityBridge( 6465): Semantics tree:            +-- textDirection=LTR
+I/AccessibilityBridge( 6465): Semantics tree:            +-- rect.ltrb=(0.0, 0.0, 48.0, 48.0)
+I/AccessibilityBridge( 6465): Semantics tree:            +-- transform=[1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 269.83334, 439.0, 0.0, 1.0]
+I/AccessibilityBridge( 6465): Semantics tree:          SemanticsNode id=985 identifier=null label=☆ 34.9k rating actions=0 flags=0
+I/AccessibilityBridge( 6465): Semantics tree:            +-- headingLevel=0
+I/AccessibilityBridge( 6465): Semantics tree:            +-- textDirection=LTR
+I/AccessibilityBridge( 6465): Semantics tree:            +-- rect.ltrb=(0.0, 0.0, 80.23598, 16.0)
+I/AccessibilityBridge( 6465): Semantics tree:            +-- transform=[1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 28.0, 503.0, 0.0, 1.0]
+I/AccessibilityBridge( 6465): Semantics tree:          SemanticsNode id=986 identifier=null label=2,450 love actions=4194305 flags=2097352
+I/AccessibilityBridge( 6465): Semantics tree:            +-- headingLevel=0
+I/AccessibilityBridge( 6465): Semantics tree:            +-- textDirection=LTR
+I/AccessibilityBridge( 6465): Semantics tree:            +-- rect.ltrb=(0.0, 0.0, 110.923584, 48.0)
+I/AccessibilityBridge( 6465): Semantics tree:            +-- transform=[1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 126.23598, 487.0, 0.0, 1.0]
+I/AccessibilityBridge( 6465): Semantics tree:          SemanticsNode id=987 identifier=null label=Servings actions=0 flags=0
+I/AccessibilityBridge( 6465): Semantics tree:            +-- headingLevel=0
+I/AccessibilityBridge( 6465): Semantics tree:            +-- textDirection=LTR
+I/AccessibilityBridge( 6465): Semantics tree:            +-- rect.ltrb=(0.0, 0.0, 48.474655, 16.0)
+I/AccessibilityBridge( 6465): Semantics tree:            +-- transform=[1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 28.0, 551.0, 0.0, 1.0]
+I/AccessibilityBridge( 6465): Semantics tree:          SemanticsNode id=989 identifier=null label=Prep. Time actions=0 flags=0
+I/AccessibilityBridge( 6465): Semantics tree:            +-- headingLevel=0
+I/AccessibilityBridge( 6465): Semantics tree:            +-- textDirection=LTR
+I/AccessibilityBridge( 6465): Semantics tree:            +-- rect.ltrb=(0.0, 0.0, 59.28157, 16.0)
+I/AccessibilityBridge( 6465): Semantics tree:            +-- transform=[1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 151.98126, 551.0, 0.0, 1.0]
+I/AccessibilityBridge( 6465): Semantics tree:          SemanticsNode id=991 identifier=null label=Cook Time actions=0 flags=0
+I/AccessibilityBridge( 6465): Semantics tree:            +-- headingLevel=0
+I/AccessibilityBridge( 6465): Semantics tree:            +-- textDirection=LTR
+I/AccessibilityBridge( 6465): Semantics tree:            +-- rect.ltrb=(0.0, 0.0, 60.230576, 16.0)
+I/AccessibilityBridge( 6465): Semantics tree:            +-- transform=[1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 286.7694, 551.0, 0.0, 1.0]
+I/AccessibilityBridge( 6465): Semantics tree:          SemanticsNode id=988 identifier=null label=2pp actions=0 flags=0
+I/AccessibilityBridge( 6465): Semantics tree:            +-- headingLevel=0
+I/AccessibilityBridge( 6465): Semantics tree:            +-- textDirection=LTR
+I/AccessibilityBridge( 6465): Semantics tree:            +-- rect.ltrb=(0.0, 0.0, 27.769882, 20.0)
+I/AccessibilityBridge( 6465): Semantics tree:            +-- transform=[1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 38.352386, 575.0, 0.0, 1.0]
+I/AccessibilityBridge( 6465): Semantics tree:          SemanticsNode id=990 identifier=null label=25m actions=0 flags=0
+I/AccessibilityBridge( 6465): Semantics tree:            +-- headingLevel=0
+I/AccessibilityBridge( 6465): Semantics tree:            +-- textDirection=LTR
+I/AccessibilityBridge( 6465): Semantics tree:            +-- rect.ltrb=(0.0, 0.0, 32.47386, 20.0)
+I/AccessibilityBridge( 6465): Semantics tree:            +-- transform=[1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 165.3851, 575.0, 0.0, 1.0]
+I/AccessibilityBridge( 6465): Semantics tree:          SemanticsNode id=992 identifier=null label=20m actions=0 flags=0
+I/AccessibilityBridge( 6465): Semantics tree:            +-- headingLevel=0
+I/AccessibilityBridge( 6465): Semantics tree:            +-- textDirection=LTR
+I/AccessibilityBridge( 6465): Semantics tree:            +-- rect.ltrb=(0.0, 0.0, 32.50186, 20.0)
+I/AccessibilityBridge( 6465): Semantics tree:            +-- transform=[1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 300.6338, 575.0, 0.0, 1.0]
+I/flutter ( 6465): Capturing /study
+I/flutter ( 6465): Capturing /recipe-directions
+D/EGL_emulation( 6465): app_time_stats: avg=194.40ms min=115.38ms max=283.45ms count=6
+I/flutter ( 6465): Capturing /recipe-ingredients
+I/flutter ( 6465): Capturing /gallery
+I/flutter ( 6465): Capturing /connect
+D/EGL_emulation( 6465): app_time_stats: avg=167.70ms min=111.99ms max=253.81ms count=6
+I/flutter ( 6465): Capturing /settings
+I/flutter ( 6465): Capturing /profile
+I/flutter ( 6465): Capturing /edit-profile
+D/EGL_emulation( 6465): app_time_stats: avg=181.00ms min=114.82ms max=293.90ms count=6
+I/flutter ( 6465): Capturing /membership
+I/flutter ( 6465): Capturing /menu
+D/EGL_emulation( 6465): app_time_stats: avg=149.68ms min=110.94ms max=204.92ms count=7
+W/WindowOnBackDispatcher( 6465): OnBackInvokedCallback is not enabled for the application.
+W/WindowOnBackDispatcher( 6465): Set 'android:enableOnBackInvokedCallback="true"' in the application manifest.
+D/EGL_emulation( 6465): app_time_stats: avg=33.01ms min=9.62ms max=149.23ms count=31
+I/flutter ( 6465): 00:27 +1: (tearDownAll)
+I/flutter ( 6465): 00:27 +2: All tests passed!
+W/n_food_delivery( 6465): ApkAssets: Deleting an ApkAssets object '<empty> and /product/app/talkback/talkback.apk' with 1 weak references
+W/n_food_delivery( 6465): ApkAssets: Deleting an ApkAssets object '/vendor/overlay/EmulatorTalkBackOverlay/EmulatorTalkBackOverlay.apk' with 1 weak references
+All tests passed.

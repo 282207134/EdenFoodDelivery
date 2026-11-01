@@ -1,0 +1,1 @@
+All 72 screens captured on Android emulator. Checkout flow passed.
